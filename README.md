@@ -56,8 +56,8 @@
   - [ ] Histogram
   - [ ] Scatter plot
   - [ ] Đường biểu diễn tần số tương đối dồn
-- Nhận biết được phân phối bình thường
-- Thực hiện được các thao tác sau trên SPSS
+- [ ] Nhận biết được phân phối bình thường
+- [ ] Thực hiện được các thao tác sau trên SPSS
   - [ ] Khai báo biến số và nhập dữ liệu trong SPSS
   - [ ] Mở file dữ liệu (Excel, .sav); lưu file dữ liệu (.sav)
   - [ ] Làm sạch dữ liệu: Xác định trùng lặp, tìm kiếm, sắp xếp
