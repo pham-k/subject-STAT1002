@@ -1,11 +1,4 @@
-## Bảng phân phối tần số một chiều
-
-Cách thực hiện:
-
-- Analyze → Descriptive statistics → Frequencies
-- Frequencies:
-  - Chọn biến
-  - Click Ok
+## Frequency table
 
 Đọc kết quả:
 
